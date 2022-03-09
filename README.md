@@ -18,6 +18,7 @@
 
 ## Demo
 
+https://user-images.githubusercontent.com/90523453/157503147-155883e3-5df2-480e-a732-82ea2ed5c110.mp4
 
 ## Live Link
 - Pooja-saini467(https://pooja-saini467.github.io/Gym-landing-page/)
@@ -29,7 +30,7 @@
 
 ## Author
 - Website Url
-- pooja saini ()
+- pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-html5-css3-activity-6907385492426641408-cI1h)
 - Twitter url
 - @Pooja96490259(https://twitter.com/home)
 
